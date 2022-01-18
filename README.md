@@ -1,13 +1,14 @@
 # My Scheduler!
 ## A simle calendar app for scheudling your day
 
-### Locations
-
-GitHub location:    https://github.com/pjlawler/Quizzer
-
-Deployed Live to:    https://pjlawler.github.io/Quizzer/
 
 ![imgage](./assets/imgs/my-scheduler.png)
+
+
+### Locations
+GitHub location:    https://github.com/pjlawler/my-scheduler/ 
+
+Deployed Live to:    https://pjlawler.github.io/my-scheduler/
 
 ### Features
 - Provides color code of each hour to show where your day is at (gray - Past; Red - Current; Green - Future)
@@ -20,7 +21,11 @@ Deployed Live to:    https://pjlawler.github.io/Quizzer/
 - 3rd Party API (Bootstrap.JS, jQuery, Moment.js)
 
 
- ### License Info
+
+
+
+
+### License Info
 Copyright (c) 2022 Lawler Innovations, Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
